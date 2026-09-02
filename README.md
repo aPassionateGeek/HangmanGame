@@ -4,4 +4,4 @@ This project is for learning purposes only, im planing on coming back from time 
 
 ## Versions
 - **v1.x (Current):** Simple CS console application.
-- **v2.x (Current):** Future rework
+- **v2.x (Current):** Future revision
